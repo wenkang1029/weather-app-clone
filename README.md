@@ -145,9 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
-
-Project Link: [https://github.com/yourusername/weather-app-clone](https://github.com/yourusername/weather-app-clone)
+Project Link: (https://github.com/wenkang1029/weather-app-clone)
 
 ---
 
